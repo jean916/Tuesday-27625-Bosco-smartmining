@@ -141,30 +141,6 @@ This project is a complete Oracle PL/SQL-based Management Information System (MI
 - Environmental conservation  
 - Revenue analytics  
 
-It includes database design, PL/SQL programming, auditing, and basic business intelligence.
-
-
- Project Structure
-
-  ├── create_tables.sql
-  ├── insert_data.sql
-  ├── constraints.sql
-  ├── test_queries.sql
-
-
-  ├── procedures.sql
-  ├── functions.sql
-  ├── packages.sql
-  ├── triggers.sql
-  ├── auditing.sql
-
-
-  ├── BPMN.png
-  ├── ERD.png
-  ├── Final_Documentation.pdf
-
-
-
  Key Features
 
 1. Database Design
@@ -2340,6 +2316,7 @@ INSERT INTO holiday (holiday_date, description) VALUES (DATE '2026-04-03', 'Good
 INSERT INTO holiday (holiday_date, description) VALUES (DATE '2026-04-05', 'Easter Sunday');
 INSERT INTO holiday (holiday_date, description) VALUES (DATE '2026-05-01', 'Labour Day');
 INSERT INTO holiday (holiday_date, description) VALUES (DATE '2026-12-25', 'Christmas');
+
 
 
 
